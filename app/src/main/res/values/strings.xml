@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dịch đa Ngôn Ngữ</string>
+    <string name="client_id">733979541826-lsbpillcuinpb75qh57ju73j9t0qha9t.apps.googleusercontent.com</string>
+
+    <string name="input_content">Nhập nội dung</string>
+    <string name="content">Nội dung</string>
+    <string name="translate">Dịch</string>
+
+    <string name="not_internet">Lỗi kết nối mạng</string>
+    <string name="invalid_input_string">Không có bản dịch cho từ này!</string>
+
+    <string name="choose_language">Chọn Ngôn ngữ</string>
+    <string name="cancel">Hủy</string>
+
+    <string name="nav_history">Lịch sử</string>
+    <string name="description_nav">Ứng dụng Translator\nNguyễn Anh Khoa B1809593</string>
+    <string name="question_logout">Bạn có muốn đăng xuất?</string>
+    <string name="no">Không</string>
+    <string name="yes">Có</string>
+    <string name="choose_image_login">Nhấn vào ảnh đại diện để Đăng Nhập tài khoản Google</string>
+    <string name="login">Đăng nhập</string>
+    <string name="identify_language_fail">không thể nhận dạng ngôn ngữ</string>
+    <string name="lang_not_support">Ngôn ngữ không được hổ trợ</string>
+    <string name="history">Lịch sử</string>
+    <string name="login_view_history">Bạn cần đăng nhập để xem lịch sử</string>
+    <string name="question_delete_history">Bạn có muốn xóa toàn bộ lịch sử?</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <!-- pressed -->
+    <item android:color="@color/tint_button_click" android:state_pressed="true" />
+    <item android:color="@color/text" android:state_pressed="false" />
+</selector>
